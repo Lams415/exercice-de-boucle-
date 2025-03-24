@@ -14,4 +14,24 @@ Faire une 3éme fonction tous les véhicules sont interdites le Mercredi et same
 RESOLUTION DE L'EXERCICE : 
 - boucle for
 - proprieter lenght
-- methode de manipulation 
+- methode de manipulation
+
+  ----en----
+  ## Exercise: JavaScript Objects and Conditional Logic
+
+### Task:
+
+- Create an object-type variable containing 4 property owners from Yakir Tzafon.
+- Assume each owner has exactly two cars (one Toyota and one Chevrolet).
+
+### Requirements:
+
+- Create a function that allows **Toyota** cars to circulate **only on Sundays and Tuesdays**.
+- Create a second function that allows **Chevrolet** cars to circulate **only on Mondays and Thursdays**.
+- Create a third function that **forbids all vehicles from circulating on Wednesdays and Saturdays**.
+
+### Implementation must include:
+- `for` loop
+- The `.length` property
+- DOM manipulation methods
+
