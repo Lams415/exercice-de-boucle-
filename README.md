@@ -10,3 +10,8 @@ Faire une 2éme fonction qui autorise les voitures Chevrolet à circuler
 uniquement les Lundi et Jeudi.
 
 Faire une 3éme fonction tous les véhicules sont interdites le Mercredi et samedi.
+
+RESOLUTION DE L'EXERCICE : 
+- boucle for
+- proprieter lenght
+- methode de manipulation 
